@@ -1,0 +1,7 @@
+﻿Group Members: Shihao Zhang, Willis Yee, Simon Alam
+
+
+Presentation Description: Our presentation provides an overview of the entire data analytics process to achieve Customer Segmentation. We first outline the technical objective, followed by the pertinent business questions. Next, we expand upon the data sources used, in addition to how the multiple datasets were merged and explored. This naturally leads into initial trends and patterns observed across the merged dataset. Finally, we conclude with an interpretation of the results, including how customer segmentation was achieved through clustering, and how we could effectively market towards each unique cluster.
+
+
+Video Link: https://drive.google.com/file/d/1J8oUMYGi9wWrjdZ2UowctEY0uTkRT3yF/view?usp=sharing
